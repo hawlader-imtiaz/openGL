@@ -2,8 +2,8 @@ Introduction to Computer Graphics
 Autumn term 2023 Project 2
 Sichuan University
  
-
-This Demo shows a puppet.
+Put all the files at the same folder and for the header files add the bitmap.h
+This Demo shows a "3D puppet".
 
 In the menu, you can choose...
 1/. "Run!", my puppet does not know how to walk, he can only RUN;
