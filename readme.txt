@@ -1,8 +1,7 @@
 Introduction to Computer Graphics
 Autumn term 2023 Project 2
-
-Student Name: 
-Student ID: 
+Sichuan University
+ 
 
 This Demo shows a puppet.
 
